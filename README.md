@@ -1,1 +1,2 @@
 # odin-recipes
+The Odin-recipes is a project proposed in the Odin Project course that aims to test my knowledge related to everything I have learned so far in the course, more specifically concerning HTML
